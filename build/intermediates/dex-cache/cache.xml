@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mannh\Downloads\BadmintonTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\mannh\Downloads\BadmintonTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6d303039d01309982de2dca3c3b4ed1932a31ef3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mannh\Downloads\BadmintonTracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38968c02d6130e51cffb6ac2a4d4a1a614aa4328">
+        <dex dex="C:\Users\mannh\Downloads\BadmintonTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2b3eff4700f7639b5557a35d236ad74a456fbfab\classes.dex" />
+    </item>
+
+</items>
